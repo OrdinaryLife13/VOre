@@ -1,0 +1,10 @@
+// BEGIN_INTERNALS
+/*
+MAP_ZOOM: 1.000
+DIR: icons icons\misc 
+AUTO_FILE_DIR: OFF
+MAP_ICON_TYPE: 0
+WINDOW: icons\virgoicon.png;icons\VendingMachineBG.png;icons\ss13_32.png;icons\ss13_64.png;icons\reagentname_bg.png;icons\dispensebutton_bg.png;icons\480x480.dmi;icons\am_engine.dmi;icons\chattags.dmi;icons\covershield.dmi;icons\holomap_markers.dmi;icons\jungle.dmi;icons\meteor_turret.dmi;icons\minimap.dmi;icons\rust.dmi;icons\policetape.dmi;icons\effects\128x48.dmi;icons\effects\128x48_vr.dmi;icons\effects\128x72_vr.dmi;icons\effects\224x224.dmi;icons\effects\288x288.dmi;icons\effects\352x352.dmi;icons\48x48\walls48.dmi;vorestation.dme;icons\misc\title.dmi;icons\misc\title_vr.dmi
+FILE: icons\misc\title_vr.dmi
+*/
+// END_INTERNALS
